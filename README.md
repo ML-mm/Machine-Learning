@@ -1,5 +1,6 @@
 # Machine-Learning
-- This repository contains the following material:
+This repository contains the following material:
+
 - Projects related to Machine Learning
 - Side projects
 - Answers to exercises/tasks from across the web related to Machine Learning
