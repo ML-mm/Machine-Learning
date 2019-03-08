@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn import linear_model
 from sklearn.externals import joblib
 
-#Pickle will allows us to save our linear regression training model for reuse.
+#Joblib will allow us to save our linear regression training model for reuse.
 
 #Load the csv file into pandas dataframe
 df = pd.read_csv("canada_per_capita_income.csv")
